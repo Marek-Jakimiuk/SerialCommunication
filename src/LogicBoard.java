@@ -4,7 +4,7 @@ import java.awt.*;
 public class LogicBoard {
 
 	}
-
+//zmiana w kodzie
 
 class Interfejs{
 	private String portcomname;
